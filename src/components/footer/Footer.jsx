@@ -8,15 +8,15 @@ import {FiMail} from 'react-icons/fi'
 const Footer = () => {
   return (
     <section id='footer'>
-      <a href="https://github.com/hemantjangid-001" className='footer__logo'>Hemant Jangid</a>
+      <a href="#" className='footer__logo'>Hemant Jangid</a>
 
       <ul className='permalinks'>
-        <li><a href="https://github.com/hemantjangid-001">Home</a></li>
-        <li><a href="https://github.com/hemantjangid-001">Skills</a></li>
-        <li><a href="#https://github.com/hemantjangid-001">Projects</a></li>
-        <li><a href="https://github.com/hemantjangid-001">Achievements</a></li>
-        <li><a href="https://github.com/hemantjangid-001">Education</a></li>
-        <li><a href="https://github.com/hemantjangid-001">Contact</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#achievements">Achievements</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer__socials">
