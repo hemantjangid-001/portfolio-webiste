@@ -28,13 +28,13 @@ const Contact = () => {
             <span className='contact-icon'><FiMail/></span>
             <h4>Email</h4>
             <h5>jangid.h4004@gmail.com</h5>
-            <a href="mailto:jangid.h4004@gmail.com" target="_blank">Send a mail</a>
+            <a href="mailto:jangid.h4004@gmail.com" rel="noreferrer" target="_blank">Send a mail</a>
           </article>
           <article className='contact__option'>
             <span className='contact-icon'><AiOutlineLinkedin/></span>
             <h4>Linkedin</h4>
             <h5>Hemant Jangid</h5>
-            <a href="https://www.linkedin.com/in/hemant-jangid-9a4b93255/" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com/in/hemant-jangid-9a4b93255/" rel="noreferrer" target="_blank">Send a message</a>
           </article>
         </div>
 
