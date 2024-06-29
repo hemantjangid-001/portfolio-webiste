@@ -13,8 +13,8 @@ const data = [
     title: "PortFolio Website",
     description:
       "Showcased a sleek and modern design with sections highlighting the user's skills, projects, and contact information. The homepage features an introduction, followed by a detailed list of technical skills, notable projects with descriptions and links, and a contact form",
-    github: "",
-    preview: "",
+    github: "https://github.com/hemantjangid-001/portfolio-webiste",
+    preview: "https://main--portfoliohemantjangid.netlify.app/",
   },
   {
     id: 2,
